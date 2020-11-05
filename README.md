@@ -1,5 +1,5 @@
 # Cloud-Computing
-Project code and materials
+Project code and materials for Cloud Computing Project under Animesh Chaturvedi
 
 Java Directory includes the JAVA code for the three tasks.
 
