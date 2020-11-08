@@ -7,4 +7,4 @@ Python Directory includes the Python code(convert.py) for changing delimitter in
 
 Input Directory includes the link to the dataset used.
 
-Output Directory includes the actual results(raw output-unsorted) obtained from running MapReduce Queries
+Output Directory includes raw output(unsorted) and the sorted results obtained from running MapReduce Queries.
