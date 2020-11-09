@@ -35,7 +35,7 @@ Below are the commands used in order to set up Hadoop, HDFS, JAVA and running Ha
 
 
 
--Java Directory includes the JAVA code for the Threee MapReduce tasks.
+-Java Directory includes the JAVA code for the Three main MapReduce tasks.
 
 -Python Directory includes the Python code(convert.py) for changing delimitter in Dataset and sort utility(Sort.py) created to Sort the Results obtained from  runnning MapReduce Queries.Also includes the visualizations generated from the sorted Data.
 
