@@ -1,5 +1,5 @@
 # Cloud-Computing
-Project code and materials for Cloud Computing Project Hadoop-MapReduce Tweet Analysis of IPL2020 done under Animesh Chaturvedi
+Project code and materials for Cloud Computing Project Hadoop-MapReduce Tweet Analysis of IPL2020 done under Dr.Animesh Chaturvedi
 
 Hadoop was set up to run on Single Node Cluster mode.
 Hadoop version 3.2.1 was used in the Project along with compatible JAVA JDK 1.8.0_202
